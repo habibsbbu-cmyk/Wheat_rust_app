@@ -1,0 +1,16 @@
+name: wheat_rust_app
+description: Pashto-enabled Wheat Yellow Rust Detection - UoA Peshawar - Final Year Project - Supervisor Nizam Ahmad
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+flutter:
+  uses-material-design: true
